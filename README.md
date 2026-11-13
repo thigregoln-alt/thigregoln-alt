@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**thigregoln-alt/thigregoln-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./matrix.svg" alt="Thiago Neves - Estudante de Programação" width="100%"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thigregoln-alt/thigregoln-alt/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thigregoln-alt/thigregoln-alt/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="Pac-Man a passar pelos meus dias de trabalho" src="https://raw.githubusercontent.com/thigregoln-alt/thigregoln-alt/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+</div>
