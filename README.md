@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./matrix.svg" alt="Thiago Neves - Programming Student" width="100%"/>
+<img src="./matrix.svg?v=2" alt="Thiago Neves - Programming Student" width="100%"/>
 
 </div>
 
